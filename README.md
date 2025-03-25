@@ -9,9 +9,6 @@ This project implements a **Cloud-Based Automated DevOps Pipeline** to streamlin
 📌 The architecture follows a **standard DevOps workflow**:  
 - **Source Code Management** → **Continuous Integration** → **Continuous Deployment** → **Monitoring & Logging**  
 
-### **🖼️ System Architecture:**  
-![System Architecture](architecture/system_architecture.png)  
-
 
 ## **3️⃣ Step-by-Step Process**
 
@@ -84,6 +81,3 @@ This **Cloud-Based Automated DevOps Pipeline** ensures:
 
 This system **minimizes manual errors** and **enhances DevOps efficiency**. 🚀  
 
----
-
-Would you like me to include this in your project files? 😊
